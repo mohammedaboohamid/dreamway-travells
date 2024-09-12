@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/githubmohammedaboohamid.github.io/dreamway-travells/static/css/main.7a08cf40.css",
+    "main.js": "/githubmohammedaboohamid.github.io/dreamway-travells/static/js/main.b4fcc6a8.js",
+    "index.html": "/githubmohammedaboohamid.github.io/dreamway-travells/index.html",
+    "main.7a08cf40.css.map": "/githubmohammedaboohamid.github.io/dreamway-travells/static/css/main.7a08cf40.css.map",
+    "main.b4fcc6a8.js.map": "/githubmohammedaboohamid.github.io/dreamway-travells/static/js/main.b4fcc6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a08cf40.css",
+    "static/js/main.b4fcc6a8.js"
+  ]
+}
