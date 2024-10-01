@@ -1,11 +1,11 @@
 import React from 'react'
-import Layout from '../component/Layout'
+
 
 const About = () => {
   return (
-    <Layout>
+    <div>
 
-<div className=' flex flex-col items-center gap-6 '>
+<div className=' flex flex-col items-center gap-6 py-10 '>
     
     <div >
     <img className=''  src="https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" />
@@ -22,7 +22,7 @@ const About = () => {
     
     </div>
 
-    </Layout>
+    </div>
   )
 }
 
